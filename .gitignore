@@ -1,0 +1,27 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Matplotlib & Streamlit cache
+.matplotlib/
+reports/.matplotlib/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

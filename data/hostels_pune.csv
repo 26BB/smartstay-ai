@@ -1,0 +1,301 @@
+hostel_id,name,locality,gender_allowed,room_type,distance_to_college_km,monthly_rent,deposit_amount,wifi_speed_mbps,mess_included,mess_rating,ac_available,gym_available,laundry_available,power_backup,cctv_security,curfew_time,cleanliness_score,overall_rating,review_count,total_beds,available_beds
+HST001,Comfort Stay Balewadi Residency #1,Balewadi,Boys,Double,7.81,8600,21500,300,0,0.0,0,0,1,1,1,22:30,4.1,3.6,154,20,2
+HST002,Royal Palms Hinjawadi PG for Students #2,Hinjawadi,Boys,Single,1.25,18200,36400,30,1,3.5,1,1,1,1,0,21:30,4.7,4.3,197,80,7
+HST003,Sunshine Balewadi PG for Students #3,Balewadi,Boys,Double,9.02,11400,28500,30,1,3.7,0,1,1,1,1,22:30,4.5,3.5,206,45,11
+HST004,Sai Viman Nagar Student Living #4,Viman Nagar,Boys,Double,8.68,12400,31000,100,1,2.9,0,0,0,1,1,23:00,3.9,3.7,138,120,18
+HST005,Galaxy Viman Nagar Girls PG #5,Viman Nagar,Boys,Double,3.99,15000,37500,50,1,3.0,1,1,1,1,1,21:30,3.5,4.1,17,120,24
+HST006,Shivneri Balewadi Boys Hostel #6,Balewadi,Girls,Double,1.44,12300,30750,150,1,2.8,0,0,0,1,1,21:30,3.6,4.3,113,30,3
+HST007,Silver Oak Baner Hostel #7,Baner,Girls,Triple,6.41,10100,15150,150,1,4.7,0,0,1,1,1,No Curfew,5.0,4.1,76,30,6
+HST008,Silver Oak Hinjawadi Girls PG #8,Hinjawadi,Co-ed,Single,10.14,12900,25800,200,0,0.0,0,0,1,1,1,23:00,3.2,3.6,185,20,5
+HST009,Balaji Viman Nagar Hostel #9,Viman Nagar,Boys,Double,2.64,13500,27000,30,0,0.0,1,1,1,1,1,No Curfew,4.6,3.5,61,120,14
+HST010,Sai Kothrud PG for Students #10,Kothrud,Boys,Double,0.92,14300,21450,300,1,4.5,1,1,1,1,1,22:00,3.9,4.7,62,20,5
+HST011,Comfort Stay Balewadi Residency #11,Balewadi,Co-ed,Four,4.45,8900,22250,150,1,3.6,1,0,0,1,1,22:00,4.3,4.0,109,45,4
+HST012,Royal Palms Balewadi Hostel #12,Balewadi,Girls,Double,0.81,14400,21600,150,1,4.5,1,0,1,1,1,22:30,3.8,4.8,138,80,20
+HST013,Galaxy Balewadi Scholars Hub #13,Balewadi,Girls,Double,3.53,13900,34750,100,1,4.2,1,0,1,1,1,22:30,5.0,3.3,121,80,9
+HST014,Comfort Stay Baner Boys Hostel #14,Baner,Co-ed,Triple,3.21,7900,15800,150,0,0.0,0,0,0,1,1,23:00,4.9,3.4,80,45,2
+HST015,Sunshine Balewadi Student Living #15,Balewadi,Girls,Single,7.62,14100,28200,50,0,0.0,0,0,1,0,1,22:30,4.5,4.3,146,30,6
+HST016,Shree Hinjawadi PG for Students #16,Hinjawadi,Girls,Double,1.07,9100,13650,300,0,0.0,0,0,1,1,1,22:00,4.8,3.6,139,120,4
+HST017,Zolo Kothrud Residency #17,Kothrud,Girls,Triple,9.74,5700,14250,50,0,0.0,0,0,0,1,1,22:00,4.6,3.7,67,60,14
+HST018,Youth Nest Balewadi Boys Hostel #18,Balewadi,Girls,Double,3.41,11100,27750,50,1,4.1,0,0,1,1,1,22:00,5.0,4.1,26,20,3
+HST019,Sai Baner PG for Students #19,Baner,Girls,Four,6.39,8000,20000,100,0,0.0,1,0,1,1,1,22:00,4.4,4.8,112,45,7
+HST020,Royal Palms Balewadi PG for Students #20,Balewadi,Co-ed,Four,7.64,9400,23500,100,1,4.1,1,0,1,1,1,22:00,4.8,4.2,166,60,9
+HST021,Galaxy Balewadi Boys Hostel #21,Balewadi,Boys,Double,5.04,8500,12750,150,0,0.0,0,0,0,1,1,22:00,4.6,4.5,170,30,7
+HST022,Campus Haven Baner PG for Students #22,Baner,Boys,Single,4.95,19100,28650,300,1,4.2,0,0,1,1,1,23:00,4.6,3.6,277,60,1
+HST023,Youth Nest Viman Nagar Residency #23,Viman Nagar,Boys,Triple,8.47,12600,18900,300,1,3.9,1,0,1,0,1,22:00,4.5,4.0,144,30,7
+HST024,Comfort Stay Kothrud Accommodations #24,Kothrud,Girls,Double,4.79,13200,19800,300,1,3.3,1,0,1,1,1,22:30,3.8,3.8,250,60,1
+HST025,Galaxy Baner Hostel #25,Baner,Girls,Double,9.04,10600,15900,200,1,2.8,0,0,0,0,1,22:30,4.0,3.7,260,20,4
+HST026,Scholar's Den Kothrud Executive Stay #26,Kothrud,Girls,Triple,9.68,8100,16200,200,1,4.6,0,0,1,1,1,21:30,3.8,3.6,179,45,7
+HST027,Shivneri Kothrud PG for Students #27,Kothrud,Girls,Triple,5.1,10900,16350,300,1,4.8,1,0,0,1,1,No Curfew,3.5,4.0,70,80,7
+HST028,Scholar's Den Hinjawadi PG for Students #28,Hinjawadi,Girls,Triple,8.23,8100,20250,50,0,0.0,1,1,1,1,0,22:00,3.4,4.2,136,20,3
+HST029,Galaxy Viman Nagar Hostel #29,Viman Nagar,Girls,Triple,3.84,10300,20600,150,0,0.0,1,0,1,1,1,22:00,4.4,3.9,279,120,9
+HST030,Campus Haven Viman Nagar Executive Stay #30,Viman Nagar,Girls,Double,4.74,16500,41250,300,1,3.4,1,0,1,1,1,22:30,3.8,3.2,178,30,4
+HST031,Shivneri Baner Accommodations #31,Baner,Boys,Double,5.97,11600,17400,200,0,0.0,1,0,1,1,1,22:30,3.6,3.9,136,45,11
+HST032,Nexus Viman Nagar Girls PG #32,Viman Nagar,Boys,Double,10.47,14600,36500,200,1,4.2,1,0,1,1,1,22:00,3.4,3.6,259,45,10
+HST033,Elite Viman Nagar Accommodations #33,Viman Nagar,Girls,Four,2.62,11900,17850,50,1,4.2,1,1,1,1,0,22:30,4.1,4.0,237,45,3
+HST034,Om Balewadi PG for Students #34,Balewadi,Boys,Triple,4.39,10400,20800,30,1,4.2,1,0,0,1,1,22:30,4.2,4.5,127,80,13
+HST035,Galaxy Hinjawadi Girls PG #35,Hinjawadi,Co-ed,Double,3.41,12700,25400,200,1,4.7,1,0,1,1,1,22:00,3.9,4.2,161,20,2
+HST036,Youth Nest Kothrud PG for Students #36,Kothrud,Girls,Triple,7.31,5600,11200,100,0,0.0,0,0,0,1,1,22:30,4.7,3.3,96,45,10
+HST037,Youth Nest Viman Nagar Accommodations #37,Viman Nagar,Co-ed,Double,7.44,16100,40250,100,1,3.8,1,1,1,1,1,21:30,4.2,3.2,149,80,2
+HST038,Shivneri Baner Residency #38,Baner,Girls,Double,10.47,13300,33250,150,1,3.8,1,0,1,1,1,22:00,4.0,4.3,217,80,2
+HST039,Om Hinjawadi Girls PG #39,Hinjawadi,Boys,Double,9.12,7100,17750,30,0,0.0,0,0,1,1,1,22:30,3.3,3.7,260,20,1
+HST040,Sunshine Viman Nagar Scholars Hub #40,Viman Nagar,Girls,Triple,0.44,10700,26750,150,1,4.8,0,0,1,0,1,22:30,4.4,3.9,259,60,4
+HST041,Silver Oak Hinjawadi Residency #41,Hinjawadi,Girls,Double,9.11,7100,17750,100,0,0.0,0,0,0,1,1,22:30,4.0,3.5,259,45,6
+HST042,Royal Palms Viman Nagar Student Living #42,Viman Nagar,Girls,Double,10.3,11900,29750,50,1,3.3,0,1,0,1,1,22:00,4.6,4.3,89,60,1
+HST043,Om Baner Executive Stay #43,Baner,Girls,Double,1.32,12800,25600,150,1,3.1,0,0,1,1,1,22:30,4.7,4.7,206,45,11
+HST044,Balaji Hinjawadi Student Living #44,Hinjawadi,Girls,Single,6.74,13100,32750,100,0,0.0,0,0,1,1,1,22:00,3.6,3.2,178,20,3
+HST045,Silver Oak Kothrud Girls PG #45,Kothrud,Boys,Single,6.07,15700,23550,50,1,3.0,0,0,1,0,1,22:00,4.8,4.0,159,120,18
+HST046,Galaxy Baner Accommodations #46,Baner,Boys,Four,6.82,5600,11200,150,0,0.0,0,0,0,0,1,22:00,4.1,4.9,163,20,4
+HST047,Sai Kothrud Executive Stay #47,Kothrud,Boys,Triple,8.79,7900,11850,100,0,0.0,1,0,1,1,1,22:30,4.3,4.7,32,45,8
+HST048,Balaji Balewadi Accommodations #48,Balewadi,Girls,Triple,3.63,8700,17400,150,1,3.1,0,0,1,0,1,22:00,4.9,3.7,185,20,4
+HST049,Stanza Living Balewadi Scholars Hub #49,Balewadi,Boys,Four,4.03,8400,12600,150,1,3.9,0,0,1,1,1,No Curfew,4.2,4.8,179,80,8
+HST050,Sunshine Balewadi Girls PG #50,Balewadi,Girls,Double,1.49,11200,28000,30,0,0.0,1,0,1,0,1,22:00,4.9,4.4,226,80,5
+HST051,Zolo Hinjawadi Accommodations #51,Hinjawadi,Girls,Triple,0.63,10700,16050,100,1,3.7,1,0,0,1,0,22:30,4.9,4.6,58,120,7
+HST052,Royal Palms Viman Nagar Student Living #52,Viman Nagar,Co-ed,Single,10.39,19600,49000,200,1,4.5,0,0,0,1,1,22:30,3.0,4.7,86,30,5
+HST053,Shree Kothrud Residency #53,Kothrud,Girls,Single,0.45,19000,38000,50,1,2.8,1,1,1,1,1,22:00,4.0,4.8,34,120,26
+HST054,Shree Viman Nagar Hostel #54,Viman Nagar,Boys,Double,10.49,12300,30750,150,1,3.0,0,0,0,1,1,21:30,4.3,4.1,178,60,10
+HST055,Zolo Viman Nagar PG for Students #55,Viman Nagar,Boys,Double,8.39,9600,19200,30,0,0.0,0,0,0,1,1,22:00,4.5,3.7,172,120,9
+HST056,Campus Haven Kothrud PG for Students #56,Kothrud,Co-ed,Double,1.23,11400,17100,30,1,3.0,0,0,1,1,1,22:00,3.8,4.7,228,120,2
+HST057,Galaxy Kothrud Scholars Hub #57,Kothrud,Girls,Double,2.47,11300,28250,300,1,4.5,0,0,1,1,1,22:00,4.2,4.3,25,80,9
+HST058,Sunshine Balewadi Boys Hostel #58,Balewadi,Boys,Triple,3.88,6800,10200,50,0,0.0,0,0,1,1,1,22:30,3.8,4.0,92,45,5
+HST059,Balaji Kothrud Hostel #59,Kothrud,Girls,Double,1.89,11500,28750,200,1,3.0,0,0,1,1,1,22:00,4.4,4.0,169,20,2
+HST060,Elite Hinjawadi Accommodations #60,Hinjawadi,Co-ed,Single,9.94,15000,22500,50,0,0.0,1,1,1,1,1,22:00,4.0,4.6,193,20,4
+HST061,Balaji Balewadi Boys Hostel #61,Balewadi,Boys,Double,6.17,12800,25600,200,1,4.1,1,0,0,1,0,22:00,4.7,3.6,217,80,3
+HST062,Comfort Stay Hinjawadi Boys Hostel #62,Hinjawadi,Girls,Triple,8.25,7300,10950,30,1,3.0,0,0,1,1,1,23:00,3.2,3.6,100,80,5
+HST063,Campus Haven Balewadi Executive Stay #63,Balewadi,Boys,Triple,8.0,8900,17800,200,1,4.6,0,0,1,0,1,21:30,4.6,4.2,192,80,3
+HST064,Nexus Kothrud Accommodations #64,Kothrud,Girls,Single,1.08,16000,40000,30,1,3.8,0,0,0,0,1,23:00,3.4,4.2,268,30,1
+HST065,Royal Palms Hinjawadi PG for Students #65,Hinjawadi,Boys,Triple,5.45,8200,12300,50,1,4.2,0,0,1,1,0,22:00,4.6,4.3,45,45,2
+HST066,Green Valley Viman Nagar Boys Hostel #66,Viman Nagar,Girls,Double,1.13,13900,27800,300,1,3.5,0,0,1,1,0,22:00,4.3,3.8,77,120,23
+HST067,Silver Oak Viman Nagar Boys Hostel #67,Viman Nagar,Boys,Double,0.49,14300,35750,100,1,3.2,0,0,1,1,1,23:00,4.8,3.3,184,80,5
+HST068,Scholar's Den Viman Nagar Executive Stay #68,Viman Nagar,Boys,Single,0.75,21300,42600,100,0,0.0,1,0,1,1,1,22:00,4.9,4.5,111,45,11
+HST069,Sunshine Viman Nagar Girls PG #69,Viman Nagar,Co-ed,Double,5.43,11000,27500,150,0,0.0,0,0,1,1,1,23:00,4.7,3.7,94,45,8
+HST070,Comfort Stay Viman Nagar Executive Stay #70,Viman Nagar,Boys,Double,9.32,12200,30500,30,1,3.6,0,0,1,1,1,21:30,4.3,4.5,82,20,3
+HST071,Campus Haven Hinjawadi Executive Stay #71,Hinjawadi,Girls,Single,6.58,17200,43000,30,1,3.2,1,0,1,1,1,22:00,4.6,4.0,68,60,10
+HST072,Comfort Stay Viman Nagar Residency #72,Viman Nagar,Boys,Double,3.27,13200,33000,30,1,3.3,0,0,1,0,1,22:00,4.6,4.1,22,60,14
+HST073,Nexus Hinjawadi Accommodations #73,Hinjawadi,Boys,Double,7.92,10000,25000,100,0,0.0,1,0,1,1,1,22:00,3.4,4.5,249,120,16
+HST074,Youth Nest Baner Hostel #74,Baner,Girls,Single,3.29,16900,25350,30,0,0.0,0,0,1,1,1,22:00,4.5,3.5,194,20,3
+HST075,Stanza Living Kothrud Executive Stay #75,Kothrud,Boys,Double,9.43,8600,12900,150,1,3.2,0,0,0,1,1,22:00,4.1,3.7,52,45,11
+HST076,Zolo Kothrud Residency #76,Kothrud,Boys,Double,7.34,10800,27000,100,1,4.3,0,0,1,1,1,21:30,4.3,3.8,93,20,2
+HST077,Green Valley Viman Nagar PG for Students #77,Viman Nagar,Girls,Double,2.71,13500,27000,300,1,3.6,0,0,1,0,1,22:30,3.6,3.7,70,20,2
+HST078,Om Hinjawadi Accommodations #78,Hinjawadi,Girls,Four,8.2,9100,22750,300,1,4.8,1,0,1,1,1,22:00,3.9,3.3,175,120,12
+HST079,Sunshine Balewadi Residency #79,Balewadi,Girls,Double,7.56,11700,29250,300,1,4.4,0,1,1,1,1,21:30,3.3,4.7,45,45,7
+HST080,Galaxy Hinjawadi PG for Students #80,Hinjawadi,Girls,Triple,1.58,8400,12600,100,1,3.7,0,0,0,1,1,21:30,3.9,4.7,40,20,5
+HST081,Comfort Stay Baner Boys Hostel #81,Baner,Boys,Single,9.96,15700,23550,200,0,0.0,0,0,1,1,1,22:00,4.2,4.2,99,120,20
+HST082,Sai Viman Nagar Hostel #82,Viman Nagar,Boys,Four,1.13,10500,26250,300,0,0.0,1,1,1,1,1,23:00,3.6,4.8,259,30,7
+HST083,Sai Hinjawadi Residency #83,Hinjawadi,Boys,Single,4.78,17400,26100,150,1,3.5,1,0,1,0,1,22:00,3.6,4.0,148,60,4
+HST084,Stanza Living Baner Girls PG #84,Baner,Boys,Double,2.83,9900,19800,50,0,0.0,0,0,1,1,0,22:00,4.0,3.4,213,80,15
+HST085,Sai Baner Accommodations #85,Baner,Boys,Double,5.35,13100,19650,300,0,0.0,1,1,1,1,1,22:00,4.1,3.5,159,20,4
+HST086,Om Viman Nagar Residency #86,Viman Nagar,Girls,Double,10.25,12500,18750,150,1,4.8,0,0,1,1,1,21:30,3.3,3.8,254,80,15
+HST087,Royal Palms Baner Boys Hostel #87,Baner,Girls,Double,1.96,12600,31500,200,0,0.0,1,0,0,1,1,22:00,3.2,3.9,169,120,28
+HST088,Galaxy Balewadi Student Living #88,Balewadi,Girls,Double,7.66,10400,26000,200,1,3.8,0,0,1,0,1,22:30,3.2,3.2,172,60,3
+HST089,Campus Haven Hinjawadi Hostel #89,Hinjawadi,Girls,Double,7.5,9700,24250,200,1,3.5,0,0,1,1,0,22:00,4.4,4.6,147,80,16
+HST090,Sunshine Baner Student Living #90,Baner,Co-ed,Double,9.9,9700,24250,100,0,0.0,0,0,1,1,1,No Curfew,3.5,3.4,206,60,14
+HST091,Sunshine Kothrud Hostel #91,Kothrud,Co-ed,Triple,3.23,9300,23250,300,1,4.6,0,0,1,0,1,22:30,4.2,3.6,127,120,8
+HST092,Campus Haven Balewadi PG for Students #92,Balewadi,Boys,Double,7.25,10100,20200,50,1,3.9,0,0,0,0,1,21:30,3.6,4.3,57,120,19
+HST093,Sai Baner Residency #93,Baner,Girls,Triple,4.56,9100,18200,50,0,0.0,1,0,0,1,1,23:00,4.1,3.4,183,45,8
+HST094,Green Valley Viman Nagar Scholars Hub #94,Viman Nagar,Girls,Triple,5.07,10400,20800,50,0,0.0,1,0,1,1,1,22:00,4.1,4.5,101,80,13
+HST095,Om Hinjawadi Residency #95,Hinjawadi,Girls,Single,10.31,17000,42500,150,1,3.3,1,1,0,0,1,22:30,3.5,4.3,250,45,3
+HST096,Sunshine Hinjawadi PG for Students #96,Hinjawadi,Girls,Four,6.81,6600,13200,100,1,3.2,0,0,1,0,1,22:30,4.5,4.6,123,30,6
+HST097,Youth Nest Viman Nagar Scholars Hub #97,Viman Nagar,Girls,Single,7.48,19500,48750,30,0,0.0,1,0,0,1,1,21:30,3.4,4.2,58,80,15
+HST098,Youth Nest Balewadi Hostel #98,Balewadi,Girls,Double,6.0,8700,17400,300,0,0.0,0,0,0,1,1,21:30,4.4,4.1,42,20,4
+HST099,Green Valley Balewadi Girls PG #99,Balewadi,Boys,Single,4.12,18100,36200,150,1,4.6,0,1,0,0,1,23:00,4.1,4.4,126,20,1
+HST100,Zolo Kothrud Scholars Hub #100,Kothrud,Girls,Triple,4.17,11100,16650,50,1,3.5,1,0,0,1,1,22:00,3.5,3.3,29,60,10
+HST101,Youth Nest Balewadi Student Living #101,Balewadi,Boys,Single,5.81,18900,47250,30,1,4.8,1,0,1,1,1,23:00,4.0,3.9,152,20,5
+HST102,Zolo Viman Nagar Scholars Hub #102,Viman Nagar,Girls,Four,5.36,7500,18750,100,0,0.0,0,0,1,1,1,22:00,3.9,4.6,165,120,5
+HST103,Zolo Hinjawadi Scholars Hub #103,Hinjawadi,Co-ed,Double,5.71,9800,24500,150,1,3.2,0,0,0,1,1,21:30,3.1,3.3,123,60,4
+HST104,Elite Kothrud Student Living #104,Kothrud,Boys,Four,10.11,4800,9600,30,0,0.0,0,0,1,1,1,22:00,4.6,3.8,195,45,5
+HST105,Om Kothrud Executive Stay #105,Kothrud,Girls,Double,8.07,8400,16800,100,0,0.0,0,0,1,1,1,22:00,3.6,3.5,129,60,10
+HST106,Royal Palms Baner Accommodations #106,Baner,Girls,Double,8.09,9500,19000,150,0,0.0,0,0,1,1,1,22:30,3.4,4.7,42,80,2
+HST107,Shree Balewadi Girls PG #107,Balewadi,Co-ed,Double,1.7,14000,21000,300,1,4.2,1,0,1,1,1,22:30,4.1,3.9,20,80,9
+HST108,Zolo Viman Nagar Residency #108,Viman Nagar,Co-ed,Single,1.39,21000,42000,30,1,3.3,0,0,1,1,1,No Curfew,4.1,4.9,127,45,11
+HST109,Sai Balewadi PG for Students #109,Balewadi,Girls,Triple,4.43,12100,30250,150,1,2.9,1,1,1,1,1,22:30,4.8,3.6,255,45,1
+HST110,Metro Living Balewadi Hostel #110,Balewadi,Girls,Double,2.13,12900,32250,100,1,3.2,1,0,0,0,1,22:30,4.7,3.9,181,60,13
+HST111,Balaji Baner Scholars Hub #111,Baner,Girls,Double,7.9,11200,22400,100,1,3.7,0,0,0,0,1,22:30,4.0,3.8,204,60,3
+HST112,Sunshine Viman Nagar Student Living #112,Viman Nagar,Girls,Single,7.57,20600,41200,30,1,3.6,0,1,1,1,1,No Curfew,3.7,3.7,79,20,2
+HST113,Zolo Hinjawadi PG for Students #113,Hinjawadi,Boys,Double,0.57,9800,14700,100,1,4.0,0,0,1,1,1,22:30,4.1,3.5,206,30,2
+HST114,Balaji Kothrud Residency #114,Kothrud,Boys,Double,4.73,10100,15150,150,1,4.4,0,0,0,1,1,22:00,3.6,4.8,182,80,13
+HST115,Green Valley Kothrud Accommodations #115,Kothrud,Boys,Double,3.57,11600,23200,300,1,3.4,0,0,1,1,1,22:30,3.7,4.8,114,80,18
+HST116,Youth Nest Baner Student Living #116,Baner,Girls,Double,4.77,12000,24000,100,0,0.0,1,0,0,1,1,22:00,4.3,4.4,205,20,4
+HST117,Silver Oak Viman Nagar Girls PG #117,Viman Nagar,Girls,Double,5.85,10700,26750,100,0,0.0,0,0,0,1,1,22:30,5.0,4.4,216,45,7
+HST118,Silver Oak Balewadi Scholars Hub #118,Balewadi,Boys,Double,5.99,12100,18150,300,1,3.7,0,0,1,1,1,21:30,3.6,4.8,55,20,2
+HST119,Elite Kothrud Scholars Hub #119,Kothrud,Boys,Double,5.23,12000,30000,150,1,4.2,0,1,1,1,1,22:00,3.5,3.5,93,45,9
+HST120,Stanza Living Hinjawadi Residency #120,Hinjawadi,Co-ed,Double,2.2,12400,31000,300,1,2.9,0,1,1,1,1,22:00,4.6,3.3,64,80,6
+HST121,Shivneri Kothrud Executive Stay #121,Kothrud,Boys,Double,5.68,12100,30250,300,1,3.6,0,1,1,1,1,22:30,3.2,3.4,72,30,3
+HST122,Silver Oak Balewadi Girls PG #122,Balewadi,Boys,Double,4.57,9600,19200,50,1,3.6,0,0,0,0,1,21:30,3.3,3.7,242,80,2
+HST123,Elite Kothrud Girls PG #123,Kothrud,Co-ed,Double,10.13,7600,11400,200,0,0.0,0,0,0,1,1,22:30,3.5,4.1,98,60,10
+HST124,Om Hinjawadi Accommodations #124,Hinjawadi,Girls,Single,8.21,14700,22050,100,1,4.3,0,0,1,1,1,22:30,3.6,4.9,242,45,6
+HST125,Comfort Stay Balewadi Student Living #125,Balewadi,Boys,Four,8.57,5500,13750,200,0,0.0,0,0,1,1,1,23:00,3.6,4.1,177,120,10
+HST126,Silver Oak Kothrud PG for Students #126,Kothrud,Girls,Four,1.68,5300,7950,150,0,0.0,0,0,1,0,1,22:30,4.5,4.3,262,30,5
+HST127,Balaji Kothrud PG for Students #127,Kothrud,Girls,Double,4.41,11400,28500,300,1,4.7,0,0,1,1,1,22:30,4.4,4.6,215,30,4
+HST128,Sunshine Baner Boys Hostel #128,Baner,Girls,Double,5.88,13600,20400,50,1,3.8,1,0,1,1,1,22:00,4.9,3.5,245,20,4
+HST129,Sunshine Baner Residency #129,Baner,Co-ed,Four,9.22,9700,14550,100,1,3.5,1,0,1,1,1,22:30,4.4,3.2,256,20,2
+HST130,Shree Viman Nagar Hostel #130,Viman Nagar,Boys,Double,7.4,10600,21200,30,0,0.0,0,1,1,1,1,21:30,3.7,3.7,207,30,6
+HST131,Scholar's Den Baner Executive Stay #131,Baner,Boys,Double,3.88,11600,23200,50,1,3.1,0,0,0,1,1,22:30,3.6,3.4,153,120,3
+HST132,Sunshine Baner Hostel #132,Baner,Girls,Double,8.95,11800,17700,300,0,0.0,1,0,1,1,1,22:30,4.0,3.4,267,120,20
+HST133,Nexus Balewadi Boys Hostel #133,Balewadi,Girls,Four,1.65,10400,20800,200,1,3.9,1,0,0,1,1,21:30,4.0,4.3,268,60,7
+HST134,Green Valley Hinjawadi Accommodations #134,Hinjawadi,Boys,Double,1.15,11400,17100,30,1,3.2,0,0,1,1,1,22:30,3.6,3.9,134,20,2
+HST135,Sai Balewadi Accommodations #135,Balewadi,Co-ed,Single,7.09,16900,25350,300,0,0.0,1,0,0,1,0,22:00,3.7,4.5,149,120,29
+HST136,Zolo Balewadi Accommodations #136,Balewadi,Girls,Single,5.64,14900,29800,100,0,0.0,0,1,1,1,1,22:30,3.3,4.5,71,30,6
+HST137,Shree Viman Nagar Student Living #137,Viman Nagar,Boys,Triple,0.77,10700,26750,100,1,3.1,0,0,1,0,1,22:00,3.6,4.6,202,20,5
+HST138,Sai Balewadi Girls PG #138,Balewadi,Boys,Triple,1.0,8000,16000,150,0,0.0,0,0,1,1,1,22:00,4.5,3.6,200,80,16
+HST139,Comfort Stay Baner Residency #139,Baner,Girls,Double,0.37,12900,19350,150,1,3.9,0,0,1,1,1,22:00,4.1,3.6,263,20,2
+HST140,Silver Oak Kothrud Girls PG #140,Kothrud,Boys,Four,7.45,6800,17000,100,1,4.3,0,0,1,1,1,21:30,4.9,3.6,145,45,7
+HST141,Balaji Kothrud Student Living #141,Kothrud,Boys,Double,1.69,10900,16350,200,1,3.0,0,0,1,1,1,22:00,3.3,4.4,32,30,7
+HST142,Nexus Kothrud Girls PG #142,Kothrud,Boys,Triple,5.54,11000,16500,300,1,4.4,1,0,0,1,1,21:30,4.6,3.4,18,20,2
+HST143,Balaji Baner Accommodations #143,Baner,Boys,Double,9.66,11200,16800,30,1,2.9,0,0,1,0,1,22:00,4.8,3.9,214,60,1
+HST144,Elite Hinjawadi Residency #144,Hinjawadi,Girls,Single,3.1,15900,23850,150,0,0.0,1,0,1,1,1,22:30,3.2,3.9,226,30,6
+HST145,Metro Living Viman Nagar Hostel #145,Viman Nagar,Boys,Four,10.39,8800,17600,300,1,3.9,0,0,1,1,1,22:00,3.1,4.9,195,80,8
+HST146,Shivneri Baner Scholars Hub #146,Baner,Boys,Double,8.63,14500,21750,300,1,4.8,1,0,0,1,1,23:00,3.5,3.7,195,80,1
+HST147,Galaxy Kothrud Student Living #147,Kothrud,Co-ed,Double,8.83,12300,24600,150,1,3.2,1,1,1,1,1,22:00,4.4,4.8,177,20,1
+HST148,Om Baner Scholars Hub #148,Baner,Girls,Four,9.08,7700,19250,30,1,4.7,0,1,1,1,1,No Curfew,4.9,4.3,101,120,18
+HST149,Galaxy Viman Nagar Residency #149,Viman Nagar,Girls,Double,4.16,13100,32750,300,0,0.0,1,0,0,0,1,No Curfew,3.6,4.6,125,120,19
+HST150,Balaji Balewadi Student Living #150,Balewadi,Co-ed,Single,3.84,19000,28500,100,1,4.6,1,0,1,0,1,22:00,4.4,3.8,67,120,1
+HST151,Scholar's Den Balewadi Girls PG #151,Balewadi,Boys,Triple,5.33,9300,13950,150,1,3.6,0,0,1,1,1,22:00,3.6,4.8,49,45,3
+HST152,Balaji Hinjawadi Boys Hostel #152,Hinjawadi,Boys,Single,6.36,13300,26600,200,0,0.0,0,0,1,1,1,21:30,3.4,3.5,147,120,10
+HST153,Galaxy Kothrud Scholars Hub #153,Kothrud,Boys,Single,8.87,16900,33800,50,1,2.8,1,0,1,1,1,22:00,4.7,3.7,215,60,8
+HST154,Scholar's Den Kothrud Boys Hostel #154,Kothrud,Boys,Double,9.33,8800,13200,100,1,2.9,0,0,0,1,1,22:30,3.2,3.8,223,80,8
+HST155,Silver Oak Viman Nagar Girls PG #155,Viman Nagar,Boys,Double,10.15,10000,25000,300,0,0.0,0,0,1,1,0,22:30,4.4,4.3,73,60,3
+HST156,Green Valley Baner Hostel #156,Baner,Co-ed,Triple,4.62,10200,20400,300,1,4.8,0,0,1,0,0,21:30,4.1,4.1,153,80,15
+HST157,Silver Oak Balewadi Girls PG #157,Balewadi,Girls,Double,1.45,10900,21800,50,1,4.0,0,0,0,1,1,22:00,3.5,4.3,254,20,2
+HST158,Stanza Living Kothrud Hostel #158,Kothrud,Boys,Double,4.34,10600,21200,100,0,0.0,1,0,1,1,1,22:30,3.6,4.0,62,30,2
+HST159,Royal Palms Kothrud Accommodations #159,Kothrud,Co-ed,Double,7.73,11900,23800,200,1,3.2,1,0,0,1,1,23:00,4.4,3.9,280,80,1
+HST160,Sai Baner Student Living #160,Baner,Boys,Triple,0.64,7500,11250,30,0,0.0,0,0,0,1,1,21:30,3.5,4.0,240,30,7
+HST161,Scholar's Den Hinjawadi Accommodations #161,Hinjawadi,Girls,Double,7.94,12000,30000,300,1,2.9,1,0,0,1,1,22:00,3.0,4.5,16,60,15
+HST162,Shree Baner Student Living #162,Baner,Girls,Double,2.87,10100,20200,100,0,0.0,0,0,0,0,1,22:00,4.4,4.6,215,80,4
+HST163,Nexus Balewadi Scholars Hub #163,Balewadi,Girls,Double,6.9,11700,17550,200,1,4.2,0,0,1,1,1,22:30,3.3,4.5,41,80,13
+HST164,Campus Haven Kothrud Accommodations #164,Kothrud,Girls,Triple,2.95,8700,21750,150,1,4.3,0,0,0,1,1,22:30,4.6,4.7,195,80,10
+HST165,Scholar's Den Baner Accommodations #165,Baner,Girls,Triple,1.3,7300,14600,50,0,0.0,0,0,0,0,1,22:30,3.8,4.7,202,45,10
+HST166,Sai Kothrud PG for Students #166,Kothrud,Girls,Single,5.12,16100,32200,50,1,4.5,0,0,1,0,1,22:00,5.0,4.7,246,30,3
+HST167,Scholar's Den Baner Boys Hostel #167,Baner,Girls,Double,6.77,11400,22800,30,1,3.2,0,0,1,1,1,21:30,4.9,3.9,31,80,7
+HST168,Silver Oak Kothrud Student Living #168,Kothrud,Co-ed,Triple,0.48,9200,13800,30,1,3.3,0,0,1,1,1,21:30,3.6,3.7,278,80,17
+HST169,Green Valley Kothrud Boys Hostel #169,Kothrud,Boys,Double,10.46,9900,14850,150,1,3.2,0,0,1,1,1,21:30,3.2,4.4,31,60,15
+HST170,Sai Kothrud PG for Students #170,Kothrud,Girls,Double,6.97,10300,15450,30,1,3.0,0,1,1,1,1,22:30,3.6,4.3,278,45,10
+HST171,Om Viman Nagar Scholars Hub #171,Viman Nagar,Girls,Double,7.63,11600,29000,30,1,4.4,0,0,0,0,0,22:00,4.0,3.6,258,45,4
+HST172,Om Balewadi Executive Stay #172,Balewadi,Boys,Single,1.82,17000,34000,30,0,0.0,1,0,0,1,1,No Curfew,3.9,3.4,101,20,3
+HST173,Om Kothrud PG for Students #173,Kothrud,Girls,Double,8.98,8800,13200,30,1,3.1,0,0,0,0,1,22:30,3.8,4.8,151,60,12
+HST174,Scholar's Den Hinjawadi PG for Students #174,Hinjawadi,Girls,Double,1.65,13300,26600,300,1,4.7,1,0,1,0,1,21:30,4.6,4.2,78,60,15
+HST175,Sai Hinjawadi PG for Students #175,Hinjawadi,Boys,Double,2.97,9600,24000,100,1,4.5,0,0,0,1,0,23:00,3.2,4.3,139,60,6
+HST176,Sai Hinjawadi Hostel #176,Hinjawadi,Boys,Triple,6.86,8000,20000,50,1,3.7,0,1,0,1,1,22:00,3.4,4.3,218,30,1
+HST177,Balaji Hinjawadi Executive Stay #177,Hinjawadi,Boys,Double,4.86,8700,21750,30,0,0.0,0,1,1,1,1,23:00,3.6,4.1,117,120,22
+HST178,Sai Hinjawadi Student Living #178,Hinjawadi,Co-ed,Double,8.91,8200,16400,100,1,4.0,0,0,0,1,1,22:00,3.7,4.3,161,80,17
+HST179,Scholar's Den Kothrud Executive Stay #179,Kothrud,Girls,Single,1.73,15400,30800,300,0,0.0,0,0,1,1,1,22:00,3.2,3.9,75,60,8
+HST180,Campus Haven Viman Nagar Hostel #180,Viman Nagar,Co-ed,Single,5.71,19300,28950,30,1,3.7,0,0,0,0,1,21:30,3.2,4.3,176,80,13
+HST181,Comfort Stay Hinjawadi Accommodations #181,Hinjawadi,Co-ed,Four,4.36,5600,14000,100,0,0.0,0,1,1,1,1,22:00,4.5,4.1,123,30,2
+HST182,Green Valley Viman Nagar Residency #182,Viman Nagar,Girls,Double,5.44,12800,32000,300,1,4.2,0,0,1,0,1,22:30,3.6,4.6,18,80,4
+HST183,Sai Balewadi Student Living #183,Balewadi,Boys,Single,3.02,15600,39000,50,0,0.0,0,1,1,1,1,22:00,4.7,4.5,126,120,21
+HST184,Sunshine Viman Nagar Hostel #184,Viman Nagar,Boys,Double,9.75,12900,25800,150,1,4.4,0,0,1,1,1,23:00,4.7,4.7,200,80,18
+HST185,Elite Viman Nagar Accommodations #185,Viman Nagar,Boys,Triple,4.88,11900,23800,300,1,4.7,0,1,1,1,1,21:30,4.4,3.5,90,45,10
+HST186,Sunshine Balewadi Executive Stay #186,Balewadi,Girls,Double,8.36,13500,33750,200,1,4.4,1,1,1,1,1,22:00,3.8,3.8,121,120,11
+HST187,Silver Oak Kothrud Executive Stay #187,Kothrud,Boys,Double,10.47,10000,15000,300,1,4.1,0,0,1,1,0,22:30,3.8,4.1,156,20,5
+HST188,Campus Haven Kothrud Hostel #188,Kothrud,Girls,Double,3.32,12500,31250,300,1,3.8,0,1,0,1,1,21:30,4.3,3.6,229,20,2
+HST189,Zolo Viman Nagar PG for Students #189,Viman Nagar,Girls,Triple,7.92,12900,25800,50,1,4.2,1,1,1,1,1,23:00,4.3,3.9,20,60,11
+HST190,Balaji Balewadi Hostel #190,Balewadi,Girls,Double,7.45,12400,31000,30,1,3.8,1,0,1,1,0,22:00,3.1,3.5,124,30,6
+HST191,Sunshine Hinjawadi Residency #191,Hinjawadi,Girls,Triple,3.34,11100,16650,300,1,4.7,1,0,1,1,1,22:00,4.5,4.7,188,30,4
+HST192,Shivneri Viman Nagar Student Living #192,Viman Nagar,Boys,Single,1.47,18700,37400,300,0,0.0,0,0,0,0,1,22:00,4.3,3.6,113,120,19
+HST193,Comfort Stay Hinjawadi PG for Students #193,Hinjawadi,Co-ed,Double,3.21,10000,20000,30,0,0.0,1,0,1,1,1,22:30,3.3,3.7,125,120,24
+HST194,Royal Palms Hinjawadi Executive Stay #194,Hinjawadi,Boys,Double,5.02,8900,22250,100,0,0.0,0,1,1,1,1,23:00,3.4,4.4,51,120,3
+HST195,Galaxy Balewadi Girls PG #195,Balewadi,Girls,Double,8.15,8000,20000,50,0,0.0,0,0,0,1,1,22:00,4.7,3.4,268,80,3
+HST196,Comfort Stay Hinjawadi Residency #196,Hinjawadi,Boys,Single,8.02,15000,22500,50,1,3.2,0,0,0,1,1,22:00,4.5,3.6,147,45,4
+HST197,Nexus Balewadi Girls PG #197,Balewadi,Girls,Double,5.09,10800,27000,150,0,0.0,1,0,1,0,1,22:00,3.3,4.3,199,80,3
+HST198,Comfort Stay Viman Nagar Scholars Hub #198,Viman Nagar,Boys,Four,4.44,8700,13050,100,1,3.8,0,0,1,1,1,22:30,3.3,3.5,72,120,8
+HST199,Campus Haven Hinjawadi Executive Stay #199,Hinjawadi,Girls,Triple,5.19,11100,22200,200,1,4.5,1,1,1,1,1,21:30,4.8,4.1,219,80,19
+HST200,Sunshine Balewadi PG for Students #200,Balewadi,Girls,Triple,2.51,7800,11700,200,0,0.0,0,1,0,1,1,23:00,4.2,4.1,97,120,22
+HST201,Balaji Kothrud Student Living #201,Kothrud,Co-ed,Double,4.16,10700,26750,50,1,3.2,0,0,1,1,1,22:00,4.0,3.4,258,120,5
+HST202,Zolo Viman Nagar Scholars Hub #202,Viman Nagar,Girls,Single,4.59,18200,45500,30,0,0.0,0,0,1,1,1,23:00,4.2,3.9,142,60,13
+HST203,Metro Living Baner Girls PG #203,Baner,Co-ed,Single,2.93,16700,25050,30,0,0.0,0,0,1,1,1,22:30,3.9,4.2,145,80,14
+HST204,Stanza Living Viman Nagar Student Living #204,Viman Nagar,Boys,Double,4.51,14000,35000,200,1,3.5,0,0,1,1,1,22:30,3.2,3.6,94,20,2
+HST205,Metro Living Viman Nagar Hostel #205,Viman Nagar,Boys,Double,1.94,16700,33400,300,1,3.0,1,0,1,1,1,21:30,4.2,4.1,41,30,6
+HST206,Silver Oak Hinjawadi Accommodations #206,Hinjawadi,Boys,Double,2.29,11100,22200,200,1,4.2,0,0,1,1,0,21:30,4.6,3.8,214,60,10
+HST207,Balaji Baner PG for Students #207,Baner,Girls,Triple,5.91,8100,16200,300,0,0.0,0,0,0,1,1,21:30,3.4,4.1,49,80,10
+HST208,Shivneri Kothrud Scholars Hub #208,Kothrud,Co-ed,Triple,8.59,8200,20500,200,1,3.7,0,0,1,1,1,22:30,4.7,4.0,144,20,4
+HST209,Royal Palms Baner Girls PG #209,Baner,Girls,Double,10.05,13800,20700,200,1,4.2,1,0,1,1,1,22:30,4.8,3.7,109,60,12
+HST210,Shivneri Baner Student Living #210,Baner,Boys,Double,2.64,10600,15900,50,0,0.0,0,0,1,1,0,22:00,4.5,4.1,33,60,6
+HST211,Galaxy Viman Nagar Accommodations #211,Viman Nagar,Boys,Triple,5.31,10600,15900,200,1,3.2,0,1,0,1,1,22:00,3.9,3.4,277,60,6
+HST212,Galaxy Balewadi PG for Students #212,Balewadi,Boys,Double,3.62,11600,23200,200,0,0.0,1,0,1,0,1,21:30,3.4,4.4,202,45,7
+HST213,Galaxy Kothrud Student Living #213,Kothrud,Girls,Double,8.6,10500,26250,300,1,3.3,0,0,1,0,1,23:00,4.0,4.4,261,45,5
+HST214,Om Viman Nagar Residency #214,Viman Nagar,Girls,Single,0.91,21500,32250,100,1,4.1,0,0,1,1,0,22:00,3.8,3.8,113,80,19
+HST215,Nexus Viman Nagar Boys Hostel #215,Viman Nagar,Boys,Triple,7.17,8300,16600,150,0,0.0,0,1,1,1,0,23:00,4.3,4.2,48,20,2
+HST216,Sunshine Kothrud Accommodations #216,Kothrud,Boys,Double,6.47,9700,14550,150,1,3.7,0,0,1,0,1,21:30,3.3,3.6,140,120,23
+HST217,Om Balewadi PG for Students #217,Balewadi,Boys,Double,9.86,10800,16200,150,1,2.9,0,0,1,1,1,22:30,4.5,4.0,76,30,5
+HST218,Royal Palms Baner Executive Stay #218,Baner,Boys,Double,5.07,10300,25750,200,0,0.0,0,1,0,1,1,22:00,4.3,4.2,280,120,21
+HST219,Metro Living Viman Nagar Student Living #219,Viman Nagar,Boys,Double,8.51,14900,29800,150,1,3.6,1,1,1,1,1,22:00,4.9,4.0,16,60,13
+HST220,Metro Living Kothrud Boys Hostel #220,Kothrud,Girls,Triple,2.22,9000,22500,200,1,3.3,0,0,0,1,1,22:30,4.5,4.7,151,45,11
+HST221,Balaji Viman Nagar Residency #221,Viman Nagar,Girls,Double,1.69,15700,31400,30,1,4.0,1,0,1,1,1,22:00,3.3,3.9,16,30,1
+HST222,Zolo Baner Accommodations #222,Baner,Boys,Double,8.31,9400,18800,150,0,0.0,0,0,1,0,0,21:30,3.1,4.0,110,45,7
+HST223,Comfort Stay Balewadi Girls PG #223,Balewadi,Boys,Triple,8.17,11500,17250,150,1,4.8,1,0,1,1,1,22:00,4.3,3.3,278,20,3
+HST224,Sai Hinjawadi Student Living #224,Hinjawadi,Girls,Single,10.23,16200,40500,50,1,3.4,1,0,1,1,1,21:30,4.0,4.2,202,20,2
+HST225,Royal Palms Baner Hostel #225,Baner,Girls,Double,0.91,15800,23700,300,1,3.9,1,0,1,1,1,22:00,4.4,3.8,80,45,1
+HST226,Metro Living Hinjawadi Executive Stay #226,Hinjawadi,Girls,Double,2.24,9900,19800,50,1,3.4,0,0,1,0,1,22:00,3.6,3.6,199,60,1
+HST227,Shree Viman Nagar Boys Hostel #227,Viman Nagar,Boys,Single,8.22,19800,39600,50,1,2.9,0,0,1,1,1,21:30,3.2,4.1,46,20,2
+HST228,Campus Haven Baner Student Living #228,Baner,Girls,Double,1.31,13500,20250,200,1,3.6,0,0,1,1,1,22:30,4.9,3.6,263,20,4
+HST229,Zolo Balewadi Boys Hostel #229,Balewadi,Boys,Triple,8.4,9200,23000,30,0,0.0,1,1,1,1,0,No Curfew,3.8,3.5,139,80,6
+HST230,Om Viman Nagar Boys Hostel #230,Viman Nagar,Girls,Double,7.18,12200,30500,300,0,0.0,0,1,1,1,1,21:30,3.9,3.8,173,80,11
+HST231,Royal Palms Kothrud Student Living #231,Kothrud,Boys,Double,6.04,10100,15150,50,1,3.9,0,0,1,0,1,21:30,5.0,3.7,165,30,2
+HST232,Shivneri Kothrud Scholars Hub #232,Kothrud,Boys,Triple,5.51,9400,14100,200,0,0.0,1,1,1,1,1,22:30,3.5,3.7,216,80,7
+HST233,Scholar's Den Balewadi Executive Stay #233,Balewadi,Girls,Triple,8.72,7600,15200,300,0,0.0,0,1,1,1,1,22:00,3.7,4.6,225,20,2
+HST234,Stanza Living Viman Nagar Hostel #234,Viman Nagar,Co-ed,Double,3.41,14600,36500,30,1,3.9,1,0,1,1,0,No Curfew,4.2,3.4,233,45,7
+HST235,Galaxy Baner Hostel #235,Baner,Boys,Single,5.89,19500,48750,100,1,3.8,0,1,1,1,1,22:30,4.0,3.6,148,60,6
+HST236,Zolo Viman Nagar Boys Hostel #236,Viman Nagar,Boys,Double,3.85,14200,28400,100,1,4.1,0,1,1,0,1,22:30,3.1,4.6,114,120,12
+HST237,Om Baner Hostel #237,Baner,Girls,Triple,2.78,8600,21500,200,0,0.0,0,0,1,1,1,22:00,3.4,4.1,144,80,16
+HST238,Shree Viman Nagar Girls PG #238,Viman Nagar,Girls,Single,6.25,23600,35400,300,1,3.3,1,1,1,1,1,No Curfew,3.8,3.7,196,20,1
+HST239,Comfort Stay Kothrud Girls PG #239,Kothrud,Girls,Double,5.49,11500,28750,300,1,3.4,0,0,1,1,1,No Curfew,3.6,4.0,92,20,3
+HST240,Silver Oak Kothrud Accommodations #240,Kothrud,Boys,Double,8.58,10000,20000,300,1,3.6,0,0,0,0,1,22:00,4.3,3.3,207,80,20
+HST241,Zolo Baner Accommodations #241,Baner,Boys,Double,9.58,12100,24200,100,1,3.1,0,0,1,1,1,22:30,5.0,4.9,86,120,30
+HST242,Metro Living Viman Nagar Scholars Hub #242,Viman Nagar,Co-ed,Double,9.98,13900,34750,30,1,4.5,1,1,1,0,0,22:00,4.9,4.7,152,30,7
+HST243,Shivneri Baner Student Living #243,Baner,Boys,Single,6.38,15800,31600,50,0,0.0,0,0,1,1,1,22:30,3.9,3.5,127,20,4
+HST244,Comfort Stay Balewadi Student Living #244,Balewadi,Co-ed,Four,8.03,7200,10800,30,1,4.7,0,0,1,0,1,22:00,4.2,4.6,172,60,10
+HST245,Sai Viman Nagar Scholars Hub #245,Viman Nagar,Girls,Double,1.42,13300,19950,150,0,0.0,1,0,1,1,1,22:30,3.4,3.9,167,45,8
+HST246,Sai Baner Scholars Hub #246,Baner,Boys,Double,9.52,9300,13950,150,0,0.0,0,0,1,1,0,22:30,3.8,3.7,24,30,4
+HST247,Youth Nest Viman Nagar PG for Students #247,Viman Nagar,Girls,Triple,2.85,13500,33750,300,1,4.2,1,0,1,1,1,21:30,4.2,3.5,206,20,2
+HST248,Green Valley Kothrud Residency #248,Kothrud,Girls,Double,9.16,8300,12450,50,0,0.0,1,0,0,0,1,21:30,4.9,3.2,141,20,4
+HST249,Shree Hinjawadi Executive Stay #249,Hinjawadi,Girls,Double,2.73,8300,12450,200,0,0.0,0,0,1,1,1,22:00,3.1,3.5,190,20,2
+HST250,Sunshine Balewadi Boys Hostel #250,Balewadi,Girls,Triple,9.69,9600,19200,30,1,4.8,1,0,1,1,1,22:30,4.5,3.8,30,20,3
+HST251,Balaji Kothrud Girls PG #251,Kothrud,Boys,Double,8.9,10300,25750,30,1,3.1,0,0,1,1,1,22:30,4.1,3.3,159,60,10
+HST252,Nexus Kothrud Residency #252,Kothrud,Boys,Double,6.57,11600,17400,150,1,4.1,0,1,1,1,0,21:30,3.9,4.6,118,80,14
+HST253,Elite Hinjawadi Hostel #253,Hinjawadi,Boys,Double,6.83,12500,18750,300,1,4.4,1,0,1,1,1,22:00,4.7,3.5,185,120,16
+HST254,Campus Haven Hinjawadi Residency #254,Hinjawadi,Girls,Double,6.7,7100,17750,200,0,0.0,0,0,0,1,1,22:30,3.6,4.1,118,80,11
+HST255,Shree Kothrud Boys Hostel #255,Kothrud,Boys,Single,10.33,16500,24750,300,1,3.1,0,1,1,1,1,23:00,4.0,3.6,243,45,4
+HST256,Sai Viman Nagar Student Living #256,Viman Nagar,Boys,Single,9.62,20300,40600,150,1,4.4,0,1,1,1,1,22:00,3.3,4.7,276,120,5
+HST257,Silver Oak Baner PG for Students #257,Baner,Girls,Double,0.34,10800,21600,30,0,0.0,0,1,1,1,1,22:30,4.3,3.6,114,30,3
+HST258,Om Kothrud Accommodations #258,Kothrud,Girls,Triple,1.82,10300,20600,100,1,4.7,0,1,1,1,1,No Curfew,4.1,3.5,171,80,11
+HST259,Campus Haven Viman Nagar Hostel #259,Viman Nagar,Boys,Single,1.38,20800,52000,30,1,3.6,0,0,1,1,1,22:00,4.6,3.3,250,80,5
+HST260,Youth Nest Balewadi PG for Students #260,Balewadi,Girls,Four,4.95,8300,12450,300,1,4.3,0,0,1,0,1,22:00,4.4,4.3,178,60,8
+HST261,Campus Haven Balewadi Executive Stay #261,Balewadi,Boys,Single,8.93,14200,35500,100,0,0.0,0,1,1,0,1,22:00,3.9,4.2,134,80,8
+HST262,Balaji Viman Nagar Boys Hostel #262,Viman Nagar,Boys,Double,2.42,13800,34500,300,1,4.4,0,0,1,1,1,21:30,4.1,4.0,249,45,9
+HST263,Stanza Living Balewadi PG for Students #263,Balewadi,Girls,Single,6.4,15900,39750,300,0,0.0,0,0,1,1,1,23:00,4.6,4.5,88,60,9
+HST264,Elite Kothrud Student Living #264,Kothrud,Boys,Double,7.25,9400,23500,100,1,4.4,0,0,0,1,0,No Curfew,3.0,4.9,218,30,7
+HST265,Sai Kothrud Hostel #265,Kothrud,Boys,Four,7.47,8900,13350,100,1,3.4,1,0,1,1,1,22:00,3.9,3.5,208,45,7
+HST266,Green Valley Baner Residency #266,Baner,Boys,Triple,0.42,10700,21400,300,1,4.2,0,0,0,1,1,22:00,4.8,4.4,229,80,6
+HST267,Youth Nest Hinjawadi Girls PG #267,Hinjawadi,Girls,Double,3.92,9900,19800,50,1,2.8,0,0,0,1,0,22:30,4.4,3.4,258,120,3
+HST268,Shivneri Baner Executive Stay #268,Baner,Girls,Double,5.57,11500,28750,200,0,0.0,1,0,0,0,1,22:30,3.6,3.3,187,80,1
+HST269,Galaxy Hinjawadi Boys Hostel #269,Hinjawadi,Girls,Four,4.59,6900,13800,100,1,2.9,0,0,0,1,1,22:00,4.6,4.3,158,60,2
+HST270,Shivneri Baner Accommodations #270,Baner,Girls,Triple,1.65,10100,15150,100,1,3.3,0,0,0,1,1,22:00,3.5,4.4,260,30,7
+HST271,Balaji Viman Nagar Residency #271,Viman Nagar,Girls,Double,6.37,10100,15150,50,0,0.0,0,0,1,1,1,21:30,4.3,4.5,71,20,2
+HST272,Metro Living Hinjawadi Student Living #272,Hinjawadi,Boys,Double,4.17,10700,26750,300,1,3.3,0,0,1,1,1,22:00,4.4,3.3,193,60,10
+HST273,Om Kothrud Accommodations #273,Kothrud,Boys,Double,6.97,12100,18150,150,1,4.2,1,0,0,1,1,No Curfew,4.7,3.2,62,80,4
+HST274,Shivneri Hinjawadi Student Living #274,Hinjawadi,Boys,Triple,0.65,8800,22000,200,1,4.7,0,0,0,1,1,21:30,3.3,4.3,106,20,2
+HST275,Balaji Kothrud Executive Stay #275,Kothrud,Boys,Double,9.71,7600,11400,100,0,0.0,0,0,0,1,1,22:00,3.5,4.6,103,60,2
+HST276,Stanza Living Hinjawadi Residency #276,Hinjawadi,Co-ed,Double,6.88,11400,28500,30,1,4.3,1,0,0,1,1,21:30,4.5,4.5,21,60,3
+HST277,Shivneri Balewadi Residency #277,Balewadi,Co-ed,Double,7.44,10600,26500,150,1,3.8,0,0,1,0,1,22:30,4.6,4.0,195,45,11
+HST278,Balaji Kothrud Boys Hostel #278,Kothrud,Boys,Double,5.75,10600,26500,100,1,3.7,0,0,1,1,1,21:30,3.8,3.4,195,60,2
+HST279,Elite Hinjawadi Hostel #279,Hinjawadi,Girls,Single,7.64,15300,30600,200,1,3.6,0,0,1,0,1,No Curfew,4.6,3.3,72,30,7
+HST280,Metro Living Viman Nagar Residency #280,Viman Nagar,Girls,Double,7.86,13000,32500,50,0,0.0,1,1,1,1,0,21:30,4.3,3.2,37,45,2
+HST281,Balaji Hinjawadi PG for Students #281,Hinjawadi,Girls,Triple,1.46,8200,20500,200,0,0.0,1,0,1,0,0,22:30,4.1,3.7,121,20,5
+HST282,Green Valley Baner Girls PG #282,Baner,Boys,Single,2.01,20600,30900,100,1,3.7,0,1,1,0,1,22:30,4.8,3.3,15,30,1
+HST283,Campus Haven Viman Nagar Residency #283,Viman Nagar,Girls,Double,2.4,17500,35000,300,1,3.7,1,1,1,1,1,22:30,3.7,3.2,132,30,1
+HST284,Metro Living Viman Nagar Scholars Hub #284,Viman Nagar,Co-ed,Double,2.54,14600,21900,300,0,0.0,1,1,0,1,0,22:00,3.3,4.8,39,120,12
+HST285,Youth Nest Kothrud Hostel #285,Kothrud,Boys,Double,1.37,10600,15900,30,0,0.0,1,0,1,1,1,22:30,4.5,4.7,129,20,3
+HST286,Elite Baner Girls PG #286,Baner,Boys,Triple,9.39,8900,22250,30,1,3.8,0,1,0,1,1,21:30,3.4,3.8,150,30,3
+HST287,Shivneri Baner Residency #287,Baner,Boys,Double,1.43,15400,23100,150,1,3.1,1,0,1,1,1,22:30,3.2,4.7,262,30,5
+HST288,Zolo Hinjawadi Student Living #288,Hinjawadi,Girls,Double,2.83,12200,24400,150,1,4.6,0,1,1,1,0,21:30,4.5,4.1,229,80,13
+HST289,Om Hinjawadi Executive Stay #289,Hinjawadi,Girls,Double,5.35,9700,24250,30,1,2.8,0,0,1,1,1,21:30,3.9,4.2,24,60,8
+HST290,Nexus Baner Executive Stay #290,Baner,Girls,Double,7.48,11400,28500,30,0,0.0,1,0,1,1,1,22:00,4.1,4.6,53,80,11
+HST291,Nexus Balewadi Hostel #291,Balewadi,Girls,Four,1.43,7700,19250,100,1,2.9,0,0,0,1,1,21:30,4.0,4.8,119,120,25
+HST292,Silver Oak Baner Girls PG #292,Baner,Boys,Triple,3.13,10400,20800,30,1,3.7,0,0,1,1,1,23:00,4.2,4.6,45,30,4
+HST293,Sunshine Balewadi PG for Students #293,Balewadi,Boys,Triple,1.42,12200,24400,100,1,3.1,1,1,0,1,1,22:30,3.9,4.3,161,30,1
+HST294,Silver Oak Balewadi Boys Hostel #294,Balewadi,Girls,Double,4.5,9000,22500,100,0,0.0,0,0,1,1,1,22:00,3.3,4.5,99,45,4
+HST295,Sai Hinjawadi Residency #295,Hinjawadi,Boys,Double,3.9,9500,14250,150,0,0.0,0,1,1,1,1,22:30,3.5,3.3,174,80,5
+HST296,Metro Living Hinjawadi Hostel #296,Hinjawadi,Boys,Single,7.09,14800,29600,100,1,3.7,0,0,1,1,0,22:30,4.9,3.5,271,45,11
+HST297,Galaxy Kothrud Residency #297,Kothrud,Girls,Double,8.46,7600,11400,300,0,0.0,0,0,0,0,1,22:30,3.9,3.4,40,80,7
+HST298,Shivneri Viman Nagar Student Living #298,Viman Nagar,Girls,Triple,0.53,9200,23000,200,0,0.0,0,0,0,1,1,22:30,4.9,4.7,196,60,3
+HST299,Sunshine Hinjawadi Boys Hostel #299,Hinjawadi,Boys,Double,3.88,10400,20800,150,0,0.0,1,0,1,0,1,22:00,4.5,3.9,56,30,2
+HST300,Royal Palms Kothrud PG for Students #300,Kothrud,Girls,Triple,9.82,6700,10050,200,0,0.0,1,0,0,1,1,22:30,3.4,4.6,160,80,16
